@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-- Germany
+- Croatian
 - Full-Stack Web Developer
 - Volunteer Firefighter
 

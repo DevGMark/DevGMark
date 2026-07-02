@@ -7,7 +7,9 @@
 </p>
 
 ## About Me
-- Full-Stack Web Developer & Firefighter
+- Germany
+- Full-Stack Web Developer
+- Volunteer Firefighter
 
 
 ## GitHub Stats & Trophies

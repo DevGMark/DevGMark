@@ -11,6 +11,8 @@
 - Full-Stack Web Developer
 - Volunteer Firefighter
 
+Based in southern part of Germany, a Croatian Full-Stack Web Developer and his projects about various topics, wheneter it is a website for the Fire Departments, the Paramedics, a dentist or a barber shop.
+
 
 ## GitHub Stats & Trophies
 <p align="center">

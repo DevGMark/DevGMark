@@ -21,7 +21,4 @@ Full-Stack Web Developer | Volunteer Firefighter<br><br>Based in Germany, a Croa
 ![](https://streak-stats.demolab.com/?user=DevGMark&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevGMark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=DevGMark&icon=0&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
